@@ -1,0 +1,11 @@
+Nguyễn Bá Quỳnh Giao DH52200604 D22_TH04
+Phan Gia Quý DH52201334 D22_TH04
+
+Link Github: https://github.com/maouziokr-hub/lab8.1
+
+c8d057e | giao | 2025-12-27 | giao3
+6660856 | quy | 2025-12-27 | quy2
+1c21197 | giao | 2025-12-27 | giao-2
+6b223f7 | quy | 2025-12-27 | quy1
+0f6d16d | giao | 2025-12-27 | giao-1
+ee676b7 | maouziokr-hub | 2025-12-27 | Initial commit
